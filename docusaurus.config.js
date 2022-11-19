@@ -30,7 +30,8 @@ const config = {
       require.resolve('@easyops-cn/docusaurus-search-local'),
       {
         indexPages: true,
-        
+        language: ["zh"],
+        hashed: true,
       },
     ],
   ],
