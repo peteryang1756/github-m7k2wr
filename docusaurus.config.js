@@ -33,6 +33,9 @@ const config = {
         language: ["zh"],
         hashed: true,
         searchBarShortcutHint: false,
+          --search-local-modal-width: 280px;
+  --search-local-highlight-color: #5468ff;
+}
       },
     ],
   ],
