@@ -32,6 +32,7 @@ const config = {
         indexPages: true,
         language: ["zh"],
         hashed: true,
+        searchBarShortcutHint: false,
       },
     ],
   ],
